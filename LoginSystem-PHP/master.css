@@ -1,0 +1,119 @@
+*{
+    box-sizing: border-box;
+}
+
+body,html{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: rgba(6, 185, 239, 0.553);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 100vw;
+}
+
+form{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 450px;
+    margin: auto;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.804);
+    border-radius: 15px;
+}
+
+form input{
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 5px;
+    border:none;
+    padding: 10px;
+    font-size: 15px;
+}
+
+form p{
+    margin-top: 25px;
+}
+
+form .button{
+    background-color:rgba(6, 185, 239, 0.553);
+    color:white;
+    
+}
+
+form .button:hover{
+    cursor: pointer;
+}
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    width: 450px;
+    margin: auto;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.804);
+    border-radius: 15px;
+    align-items: center;
+}
+.container h1{
+    margin-bottom: 20px;
+}
+
+.container a{
+    display: inline-block;
+}
+
+.menu a{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(6, 185, 239, 0.553);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+
+
+.container1{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    margin: auto;
+    padding: 50px;
+    background-color: rgba(255, 255, 255, 0.804);
+    border-radius: 15px;
+    align-items: center;
+}
+
+.container1 a{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(6, 185, 239, 0.553);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+}
+table, th, td {
+    border: 1px solid;
+    padding: 10px;
+  }
+table {
+    border-collapse: collapse;
+    margin-bottom: 15px;
+}
+
+.a{
+    display: inline-block;
+    padding: 10px;
+    background-color: rgba(6, 185, 239, 0.553);
+    border-radius: 5px;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+    text-align: center;
+}
