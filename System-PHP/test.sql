@@ -30,7 +30,7 @@ CREATE TABLE `person` (
 INSERT INTO `person` (`ID`, `name`, `email`, `password`, `imgD`, `priv`) VALUES
 (42, 'ahmad', 'mohammad.sa2001@gmail.com', '0000', '', 1),
 (44, 'mohammad', 'mohammad@gmailcom', '0000', '', 0),
-(45, 'AbuSafat', 'mo7ammad.sa2001@gmail.com', '0000', '', 0);
+(45, 'Yazeed', 'Yazeed.sa2001@gmail.com', '0000', '', 0);
 
 --
 -- Indexes for dumped tables
