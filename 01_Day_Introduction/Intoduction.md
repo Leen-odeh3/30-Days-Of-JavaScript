@@ -8,7 +8,6 @@
 
 # 💻 Day 1
 
-
 ##### Console.log
 
 To write our first JavaScript code, we used a built-in function **console.log()**. We passed an argument as input data, and the function displays the output. We passed `'Hello, World'` as input data or argument in the console.log() function.
@@ -240,7 +239,7 @@ A collection of one or more characters between two single quotes, double quotes,
 **Example:**
 
 ```js
-'a'
+'L'
 'leen'
 "odeh"
 'palestine'
@@ -352,8 +351,8 @@ num1
 num_1
 _num_1
 $num1
-year2020
-year_2020
+year2023
+year_2023
 ```
 
 The first and second variables on the list follows the camelCase convention of declaring in JavaScript. In this material, we will use camelCase variables(camelWithOneHump). We use CamelCase(CamelWithTwoHump) to declare classes, we will discuss about classes and objects in other section.
