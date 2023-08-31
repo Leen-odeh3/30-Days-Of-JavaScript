@@ -6,7 +6,7 @@
 </div>
 </div>
 
-# 📔 Day 1
+# 💻 Day 1
 
 
 ##### Console.log
