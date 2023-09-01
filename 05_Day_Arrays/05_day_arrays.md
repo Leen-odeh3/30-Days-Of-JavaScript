@@ -603,8 +603,6 @@ console.log(arrayOfArray[0]) // [1, 2, 3]
  console.log(fullStack[1]) // ["Node", "Express", "MongoDB"]
 ```
 
-🌕  You are diligent and you have already achieved quite a lot. You have just completed day 5 challenges and you are 5 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
-
 ## 💻 Exercise
 
 ### Exercise: Level 1
