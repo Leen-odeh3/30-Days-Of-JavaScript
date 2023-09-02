@@ -1,40 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Destructuring and Spreading</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
-  </sub>
-</div>
-
-[<< Day 10](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md) | [Day 12>>](../12_Day_Regular_expressions/12_day_regular_expressions.md)
-
-![Day 11](../images/banners/day_1_11.png)
-
-- [Day 11](#day-11)
-	- [Destructuring and Spread](#destructuring-and-spread)
-		- [Destructing Arrays](#destructing-arrays)
-		- [Destructuring during iteration](#destructuring-during-iteration)
-		- [Destructuring Object](#destructuring-object)
-		- [Renaming during structuring](#renaming-during-structuring)
-		- [Object parameter without destructuring](#object-parameter-without-destructuring)
-		- [Object parameter with destructuring](#object-parameter-with-destructuring)
-		- [Destructuring object during iteration](#destructuring-object-during-iteration)
-		- [Spread or Rest Operator](#spread-or-rest-operator)
-		- [Spread operator to get the rest of array elements](#spread-operator-to-get-the-rest-of-array-elements)
-		- [Spread operator to copy array](#spread-operator-to-copy-array)
-		- [Spread operator to copy object](#spread-operator-to-copy-object)
-			- [Spread operator with arrow function](#spread-operator-with-arrow-function)
-	- [Exercises](#exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
 
 # Day 11
 
@@ -693,6 +656,3 @@ const users = [
 
 ```
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 10](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md) | [Day 12 >>](../12_Day_Regular_expressions/12_day_regular_expressions.md)
