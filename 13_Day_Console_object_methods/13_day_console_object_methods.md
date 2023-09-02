@@ -1,39 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Console Object Methods</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 12](../12_Day_Regular_expressions/12_day_regular_expressions.md) | [Day 14>>](../14_Day_Error_handling/14_day_error_handling.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_13.png)
-
-- [Day 13](#day-13)
-	- [Console Object Methods](#console-object-methods)
-		- [console.log()](#consolelog)
-		- [console.warn()](#consolewarn)
-		- [console.error()](#consoleerror)
-		- [console.table()](#consoletable)
-		- [console.time()](#consoletime)
-		- [console.info()](#consoleinfo)
-		- [console.assert()](#consoleassert)
-		- [console.group()](#consolegroup)
-		- [console.count()](#consolecount)
-		- [console.clear()](#consoleclear)
-	- [Exercises](#exercises)
-		- [Exercises:Level 1](#exerciseslevel-1)
-		- [Exercises:Level 2](#exerciseslevel-2)
-		- [Exercises:Level 3](#exerciseslevel-3)
 
 # Day 13
 
