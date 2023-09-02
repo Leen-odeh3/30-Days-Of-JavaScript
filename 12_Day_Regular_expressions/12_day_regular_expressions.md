@@ -1,46 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Regular Expressions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
-  </sub>
-</div>
-
-[<< Day 11](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md) | [Day 13>>](../13_Day_Console_object_methods/13_day_console_object_methods.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_12.png)
-
-- [📘 Day 12](#-day-12)
-	- [Regular Expressions](#regular-expressions)
-		- [RegExp parameters](#regexp-parameters)
-			- [Pattern](#pattern)
-			- [Flags](#flags)
-		- [Creating a pattern with RegExp Constructor](#creating-a-pattern-with-regexp-constructor)
-		- [Creating a pattern without RegExp Constructor](#creating-a-pattern-without-regexp-constructor)
-		- [RegExpp Object Methods](#regexpp-object-methods)
-			- [Testing for  a match](#testing-for--a-match)
-			- [Array containing all of the match](#array-containing-all-of-the-match)
-			- [Replacing a substring](#replacing-a-substring)
-		- [Square Bracket](#square-bracket)
-		- [Escape character(\\) in RegExp](#escape-character-in-regexp)
-		- [One or more times(+)](#one-or-more-times)
-		- [Period(.)](#period)
-		- [Zero or more times(*)](#zero-or-more-times)
-		- [Zero or one times(?)](#zero-or-one-times)
-		- [Quantifier in RegExp](#quantifier-in-regexp)
-		- [Cart ^](#cart-)
-		- [Exact match](#exact-match)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
 
 # 📘 Day 12
 
@@ -530,7 +487,3 @@ distance = 12
     console.log(mostFrequentWords(cleanedText))
     [{word:'I', count:3}, {word:'teaching', count:2}, {word:'teacher', count:2}]
   ```
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 11](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md) | [Day 13 >>](../13_Day_Console_object_methods/13_day_console_object_methods.md)
