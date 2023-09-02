@@ -1,33 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Promises</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 17](../17_Day_Web_storages/17_day_web_storages.md) | [Day 19>>](../19_Day_Closures/19_day_closures.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_18.png)
-
-- [Day 18](#day-18)
-	- [Promise](#promise)
-	- [Callbacks](#callbacks)
-		- [Promise constructor](#promise-constructor)
-	- [Fetch API](#fetch-api)
-	- [Async and Await](#async-and-await)
-	- [Exercises](#exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
 
 # Day 18
 
@@ -245,7 +215,6 @@ console.log('===== async and await')
 fetchData()
 ```
 
-🌕 You are real and you kept your promise and you reached to day 18. Keep your promise and settle the challenge with resolve. You are 18 steps ahead to your way to greatness. Now do some exercises for your brain and  muscles.
 
 ## Exercises
 
@@ -268,6 +237,3 @@ const catsAPI = 'https://api.thecatapi.com/v1/breeds'
 2. Read the countries api and find out the 10 largest countries
 3. Read the countries api and count total number of languages in the world used as officials.
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 17](../17_Day_Web_storages/17_day_web_storages.md) | [Day 19>>](../19_Day_Closures/19_day_closures.md)
