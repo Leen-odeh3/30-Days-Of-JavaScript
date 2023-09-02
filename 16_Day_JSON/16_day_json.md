@@ -1,34 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: JSON</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 15](../15_Day_Classes/15_day_classes.md) | [Day 17 >>](../17_Day_Web_storages/17_day_web_storages.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_16.png)
-
-- [Day 16](#day-16)
-	- [JSON](#json)
-		- [Converting JSON to JavaScript Object](#converting-json-to-javascript-object)
-			- [JSON.parse()](#jsonparse)
-		- [Using a reviver function with JSON.parse()](#using-a-reviver-function-with-jsonparse)
-		- [Converting Object to JSON](#converting-object-to-json)
-		- [Using a Filter Array with JSON.stringify](#using-a-filter-array-with-jsonstringify)
-	- [Exercises](#exercises)
-		- [Exercises Level 1](#exercises-level-1)
-		- [Exercises Level 2](#exercises-level-2)
-		- [Exercises Level 3](#exercises-level-3)
 
 # Day 16
 
@@ -464,7 +434,7 @@ console.log(txt)
 }
 ```
 
-🌕 You are extraordinary.  Now, you knew a light-weight data format which you may use to store data or to send it an HTTP server. You are 16 steps a head to your way to greatness. Now do some exercises for your brain and for your muscle.
+
 
 ## Exercises
 
@@ -593,6 +563,3 @@ const txt = `{
 1. Parse the *txt* JSON to object.
 2. Find the user who has many skills from the variable stored in *txt*.
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 15](../15_Day_Classes/15_day_classes.md) | [Day 17 >>](../17_Day_Web_storages/17_day_web_storages.md)
