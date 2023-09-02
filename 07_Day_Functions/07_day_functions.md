@@ -1,45 +1,6 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
-  </sub>
-</div>
 
-[<< Day 6](../06_Day_Loops/06_day_loops.md) | [Day 8 >>](../08_Day_Objects/08_day_objects.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_7.png)
-
-- [📔 Day 7](#-day-7)
-	- [Functions](#functions)
-		- [Function Declaration](#function-declaration)
-		- [Function without a parameter and return](#function-without-a-parameter-and-return)
-		- [Function returning value](#function-returning-value)
-		- [Function with a parameter](#function-with-a-parameter)
-		- [Function with two parameters](#function-with-two-parameters)
-		- [Function with many parameters](#function-with-many-parameters)
-		- [Function with unlimited number of parameters](#function-with-unlimited-number-of-parameters)
-			- [Unlimited number of parameters in regular function](#unlimited-number-of-parameters-in-regular-function)
-			- [Unlimited number of parameters in arrow function](#unlimited-number-of-parameters-in-arrow-function)
-		- [Anonymous Function](#anonymous-function)
-		- [Expression Function](#expression-function)
-		- [Self Invoking Functions](#self-invoking-functions)
-		- [Arrow Function](#arrow-function)
-		- [Function with default parameters](#function-with-default-parameters)
-		- [Function declaration versus Arrow function](#function-declaration-versus-arrow-function)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
-
-# 📔 Day 7
+#  Day 7
 
 ## Functions
 
@@ -703,6 +664,3 @@ It Will be covered in other section.
 
 1. Write a function called reverseCountries, it takes countries array and first it copy the array and returns the reverse of the original array
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 6](../06_Day_Loops/06_day_loops.md) | [Day 8 >>](../08_Day_Objects/08_day_objects.md)
