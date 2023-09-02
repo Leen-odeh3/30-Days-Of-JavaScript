@@ -1,32 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Manipulating DOM Object</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 21](../21_Day_DOM/21_day_dom.md) | [Day 23 >>](../23_Day_Event_listeners/23_day_event_listeners.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_22.png)
-- [Day 22](#day-22)
-  - [DOM(Document Object Model)-Day 2](#domdocument-object-model-day-2)
-    - [Creating an Element](#creating-an-element)
-    - [Creating elements](#creating-elements)
-    - [Appending child to a parent element](#appending-child-to-a-parent-element)
-    - [Removing a child element from a parent node](#removing-a-child-element-from-a-parent-node)
-  - [Exercises](#exercises)
-    - [Exercises: Level 1](#exercises-level-1)
-    - [Exercises: Level 2](#exercises-level-2)
-    - [Exercises: Level 3](#exercises-level-3)
 
 # Day 22
 
@@ -199,8 +170,6 @@ The above snippet of code cleared all the child elements.
 
 ---
 
-🌕 You are so special, you are progressing everyday. Now, you knew how to destroy a created DOM element when it is needed. You learned DOM and now you have the capability to build and develop applications. You are left with only eight days to your way to greatness. Now do some exercises for your brain and for your muscle.
-
 ## Exercises
 
 ### Exercises: Level 1
@@ -226,6 +195,3 @@ Check the requirement of this project from both images(jpg and gif). All the dat
 
 ![Challenge Information](./../images/projects/dom_mini_project_challenge_info_day_2.3.png)
 
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 21](../21_Day_DOM/21_day_dom.md) | [Day 23 >>](../23_Day_Event_listeners/23_day_event_listeners.md)

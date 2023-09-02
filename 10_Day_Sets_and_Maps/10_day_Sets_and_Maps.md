@@ -338,7 +338,6 @@ Sweden Stockholm
 Norway Oslo
 ```
 
-🌕 You established a big milestone, you are unstoppable. Keep going! You have just completed day 10 challenges and you are 10 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
 
 ## Exercises
 

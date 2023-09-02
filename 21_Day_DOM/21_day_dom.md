@@ -1,49 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Document Object Model(DOM)</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 20](../20_Day_Writing_clean_codes/20_day_writing_clean_codes.md) | [Day 22 >>](../22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_21.png)
-
-- [Day 21](#day-21)
-	- [Document Object Model (DOM) - Day 1](#document-object-model-dom---day-1)
-		- [Getting Element](#getting-element)
-			- [Getting elements by tag name](#getting-elements-by-tag-name)
-			- [Getting elements by class name](#getting-elements-by-class-name)
-			- [Getting an element by id](#getting-an-element-by-id)
-			- [Getting elements by using querySelector methods](#getting-elements-by-using-queryselector-methods)
-		- [Adding attribute](#adding-attribute)
-			- [Adding attribute using setAttribute](#adding-attribute-using-setattribute)
-			- [Adding attribute without setAttribute](#adding-attribute-without-setattribute)
-			- [Adding class using classList](#adding-class-using-classlist)
-			- [Removing class using remove](#removing-class-using-remove)
-		- [Adding Text to HTML element](#adding-text-to-html-element)
-			- [Adding Text content using textContent](#adding-text-content-using-textcontent)
-			- [Adding Text Content using innerHTML](#adding-text-content-using-innerhtml)
-				- [Text Content](#text-content)
-				- [Inner HTML](#inner-html)
-		- [Adding style](#adding-style)
-			- [Adding Style Color](#adding-style-color)
-			- [Adding Style Background Color](#adding-style-background-color)
-			- [Adding Style Font Size](#adding-style-font-size)
-	- [Exercises](#exercises)
-		- [Exercise: Level 1](#exercise-level-1)
-		- [Exercise: Level 2](#exercise-level-2)
-		- [Exercise: Level 3](#exercise-level-3)
-			- [DOM: Mini project 1](#dom-mini-project-1)
 
 # Day 21
 
@@ -344,8 +299,6 @@ As you have notice, the properties of css when we use it in JavaScript is going 
 
 ---
 
-🌕 Now,  you are fully charged with a super power, you have completed the most important and challenging part of the challenge and in general JavaScript. You learned DOM and now you have the capability to build and develop applications. Now do some exercises for your brain and for your muscle.
-
 ## Exercises
 
 ### Exercise: Level 1
@@ -399,11 +352,3 @@ As you have notice, the properties of css when we use it in JavaScript is going 
   </body>
 </html>
 ```
-
-![Project 1](../images/projects/dom_min_project_challenge_info_day_1.1.gif)
-
-![Project 2](../images/projects/dom_min_project_challenge_info_day_1.1.png)
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 20](../20_Day_Writing_clean_codes/20_day_writing_clean_codes.md) | [Day 22 >>](../22_Day_Manipulating_DOM_object/22_day_manipulating_DOM_object.md)

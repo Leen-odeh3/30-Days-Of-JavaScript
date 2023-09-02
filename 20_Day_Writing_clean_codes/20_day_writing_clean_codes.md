@@ -1,38 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Writing Clean Codes</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 19](../19_Day_Closuers/19_day_closures.md) | [Day 21 >>](../21_Day_DOM/21_day_dom.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_20.png)
-- [Day 20](#day-20)
-	- [Writing clean code](#writing-clean-code)
-		- [JavaScript Style Guide](#javascript-style-guide)
-		- [Why we need style guide](#why-we-need-style-guide)
-			- [Airbnb JavaScript Style Guide](#airbnb-javascript-style-guide)
-			- [Standard JavaScript Style Guide](#standard-javascript-style-guide)
-			- [Google JavaScript Style Guide](#google-javascript-style-guide)
-		- [JavaScript Coding Conventions](#javascript-coding-conventions)
-			- [Conventions use in 30DaysOfJavaScript](#conventions-use-in-30daysofjavascript)
-			- [Variables](#variables)
-			- [Arrays](#arrays)
-			- [Functions](#functions)
-			- [Loops](#loops)
-			- [Objects](#objects)
-			- [Conditional](#conditional)
-			- [Classes](#classes)
 
 # Day 20
 
@@ -352,9 +318,3 @@ class Person {
 ```
 
 Whatever style guide you follow be consistent. Follow some programming paradigms and design patterns. Remember, if you do not write you code in certain order or fashion it will be hard to read your code. So, do a favor for yourself or for someone who is going to read your code by writing readable code.
-
-🌕 You are tidy. Now, you knew how to write clean code, so anyone who know the English language can understand your code.  You are always progressing and you are a head of 20 steps to your way to greatness.
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 19](../19_Day_Closuers/19_day_closures.md) | [Day 21 >>](../21_Day_DOM/21_day_dom.md)
