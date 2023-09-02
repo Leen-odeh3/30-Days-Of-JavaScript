@@ -1,44 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Sets and Maps</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11>>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
-
-![Day 10](../images/banners/day_1_10.png)
-
-- [Day 10](#day-10)
-	- [Set](#set)
-		- [Creating an empty set](#creating-an-empty-set)
-		- [Creating set from array](#creating-set-from-array)
-		- [Adding an element to a set](#adding-an-element-to-a-set)
-		- [Deleting an element a set](#deleting-an-element-a-set)
-		- [Checking an element in the set](#checking-an-element-in-the-set)
-		- [Clearing the set](#clearing-the-set)
-		- [Union of sets](#union-of-sets)
-		- [Intersection of sets](#intersection-of-sets)
-		- [Difference of sets](#difference-of-sets)
-	- [Map](#map)
-		- [Creating an empty Map](#creating-an-empty-map)
-		- [Creating an Map from array](#creating-an-map-from-array)
-		- [Adding values to the Map](#adding-values-to-the-map)
-		- [Getting a value from Map](#getting-a-value-from-map)
-		- [Checking key in Map](#checking-key-in-map)
-	- [Exercises](#exercises)
-		- [Exercises:Level 1](#exerciseslevel-1)
-		- [Exercises:Level 2](#exerciseslevel-2)
-		- [Exercises:Level 3](#exerciseslevel-3)
 
 # Day 10
 
@@ -434,7 +394,3 @@ const countries = ['Finland', 'Sweden', 'Norway']
   {Arabic:25}
   ]
 ```
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 9](../09_Day_Higher_order_functions/09_day_higher_order_functions.md) | [Day 11 >>](../11_Day_Destructuring_and_spreading/11_day_destructuring_and_spreading.md)
