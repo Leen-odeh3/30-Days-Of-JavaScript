@@ -1,44 +1,5 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Objects</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-  <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-  <small> January, 2020</small>
-  </sub>
-</div>
-
-[<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_8.png)
-
-- [📔 Day 8](#-day-8)
-	- [Scope](#scope)
-		- [Window Global Object](#window-global-object)
-		- [Global scope](#global-scope)
-		- [Local scope](#local-scope)
-	- [📔 Object](#-object)
-		- [Creating an empty object](#creating-an-empty-object)
-		- [Creating an objecting with values](#creating-an-objecting-with-values)
-		- [Getting values from an object](#getting-values-from-an-object)
-		- [Creating object methods](#creating-object-methods)
-		- [Setting new key for an object](#setting-new-key-for-an-object)
-		- [Object Methods](#object-methods)
-			- [Getting object keys using Object.keys()](#getting-object-keys-using-objectkeys)
-			- [Getting object values using Object.values()](#getting-object-values-using-objectvalues)
-			- [Getting object keys and values using Object.entries()](#getting-object-keys-and-values-using-objectentries)
-			- [Checking properties using hasOwnProperty()](#checking-properties-using-hasownproperty)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
-
-# 📔 Day 8
+#  Day 8
 
 ## Scope
 
@@ -588,8 +549,3 @@ console.log(copyPerson.hasOwnProperty('score'))
     b. Create a function called averageRating which calculate the average rating of a product  
 
 4. Create a function called likeProduct. This function will helps to like to the product if it is not liked and remove like if it was liked.
-
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 7](../07_Day_Functions/07_day_functions.md) | [Day 9 >>](../09_Day_Higher_order_functions/09_day_higher_order_functions.md)
