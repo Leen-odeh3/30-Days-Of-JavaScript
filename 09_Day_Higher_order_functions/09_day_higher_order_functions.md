@@ -1,47 +1,3 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Higher Order Functions</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
-
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 8](../08_Day_Objects/08_day_objects.md) | [Day 10 >>](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)
-
-![Day 5](../images/banners/day_1_9.png)
-
-- [Day 9](#day-9)
-	- [Higher Order Function](#higher-order-function)
-		- [Callback](#callback)
-		- [Returning function](#returning-function)
-		- [Setting time](#setting-time)
-			- [Setting Interval using a setInterval function](#setting-interval-using-a-setinterval-function)
-			- [Setting a time using a setTimeout](#setting-a-time-using-a-settimeout)
-	- [Functional Programming](#functional-programming)
-		- [forEach](#foreach)
-		- [map](#map)
-		- [filter](#filter)
-		- [reduce](#reduce)
-		- [every](#every)
-		- [find](#find)
-		- [findIndex](#findindex)
-		- [some](#some)
-		- [sort](#sort)
-			- [Sorting string values](#sorting-string-values)
-			- [Sorting Numeric values](#sorting-numeric-values)
-			- [Sorting Object Arrays](#sorting-object-arrays)
-	- [💻 Exercises](#-exercises)
-		- [Exercises: Level 1](#exercises-level-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises: Level 3](#exercises-level-3)
 
 # Day 9
 
@@ -699,7 +655,3 @@ const products = [
    Standard Deviation:  4.2
    Frequency Distribution: [(20.0, 26), (16.0, 27), (12.0, 32), (8.0, 37), (8.0, 34), (8.0, 33), (8.0, 31), (8.0, 24), (4.0, 38), (4.0, 29), (4.0, 25)]
    ```
-
-🎉 CONGRATULATIONS ! 🎉
-
-[<< Day 8](../08_Day_Objects/08_day_objects.md) | [Day 10 >>](../10_Day_Sets_and_Maps/10_day_Sets_and_Maps.md)
