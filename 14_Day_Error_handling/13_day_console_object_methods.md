@@ -1,30 +1,4 @@
-<div align="center">
-  <h1> 30 Days Of JavaScript: Error handling</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
-  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
-  </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
-  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
-  </a>
 
-<sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
-<small> January, 2020</small>
-</sub>
-
-</div>
-
-[<< Day 13](../13_Day_Console_object_methods/13_day_console_object_methods.md) | [Day 15>>](../15_Day_Classes/15_day_classes.md)
-
-![Thirty Days Of JavaScript](../images/banners/day_1_14.png)
-
-- [Day 14](#day-14)
-	- [Error Handling](#error-handling)
-		- [Error Types](#error-types)
-	- [Exercises](#exercises)
-		- [Exercises:Level 1](#exerciseslevel-1)
-		- [Exercises: Level 2](#exercises-level-2)
-		- [Exercises:Level](#exerciseslevel)
 
 # Day 14
 
@@ -151,14 +125,3 @@ console.log(num.toLowerCase())
 Uncaught TypeError: num.toLowerCase is not a function
     at <anonymous>:2:17
 ```
-These are some of the common error you may face when you write a code. Understanding errors can help you to know what mistakes you made and it will help you to debug your code fast.
-🌕 You are flawless. Now, you knew how to handle errors and you can write robust application which handle unexpected user inputs. You have just completed day 14 challenges and you are 14 steps a head in to your way to greatness. Now do some exercises for your brain and for your muscle.
-## Exercises
-### Exercises:Level 1
-Practice
-### Exercises: Level 2
-Practice
-### Exercises:Level
-Practice
-🎉 CONGRATULATIONS ! 🎉
-[<< Day 13](../13_Day_Console_object_methods/13_day_console_object_methods.md) | [Day 15>>](../15_Day_Classes/15_day_classes.md)
