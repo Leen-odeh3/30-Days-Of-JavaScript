@@ -277,9 +277,6 @@ We can access all the key numbers of the keyboard using different event listener
   </body>
 </html>
 ```
-
-
-
 ## Exercises
 
 ### Exercise: Level 1
